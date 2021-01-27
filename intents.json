@@ -312,95 +312,6 @@
             "context": [""]
         },
         {
-            "tag": "founded",
-            "patterns": ["When was KCA founded"],
-            "responses": ["KCA University was founded in 1989 as a college for accountancy"],
-            "context": [""]
-        },
-        {
-            "tag": "KCA",
-            "patterns": ["KCA", "what is KCA"],
-            "responses": ["KCA is a University in kenya with it main branch along Thika road at ruaraka."],
-            "context": [""]
-        },
-        {
-            "tag": "vision",
-            "patterns": ["What is KCA vision"],
-            "responses": [""],
-            "context": [""]
-        },
-        {
-            "tag": "motto",
-            "patterns": ["What is KCA motto"],
-            "responses": [""],
-            "context": [""]
-        },
-        {
-            "tag": "VC",
-            "patterns": ["Who is the KCA VC", "who is the kca vice chancellor"],
-            "responses": ["The current chancellor is Prof.Noah Midamba"],
-            "context": [""]
-        },        {
-            "tag": "C",
-            "patterns": ["Who is the KCA chancellor"],
-            "responses": ["Professor Olive M. Mugenda is the current Chancellor."],
-            "context": [""]
-        },  
-        {
-            "tag": "kcamean",
-            "patterns": ["What does KCA mean"],
-            "responses": ["KCA is not an acronym to something since the university got it's university charter in 2011."],
-            "context": [""]
-        },
-        {
-            "tag": "spot",
-            "patterns": ["whats the best spot to take a picture in KCA university?"],
-            "responses": ["KCA have beautifull and cool places to snap and chill like towards the end of the field, chill zone and around te library"],
-            "context": [""]
-        },
-        {
-            "tag": "aboutkca",
-            "patterns": ["About KCA","Can I ask about kca","Tell me more about KCA"],
-            "responses": ["KCA is a private University located in Kenya that was started in the eraly 1989 as an accounting college. It later then on 2011 got its university chatter and became a University."],
-            "context": [""]
-        },
-        {
-            "tag": "units",
-            "patterns": ["how to register for units","how do i register for units in the portal","units registration in the portal"],
-            "responses": ["Log In to the student's portal page <a href='https://portal.kca.ac.ke/KCAPortal/'> Here </a> and click on the menu icon to the following dropdown, click on academics, then course registration as shown below <img src='static/newc1.png' style='width:100%;height:100%;'> you'll then be taken to the registration page and you'll see an a button on 'new course registration' as shown below. The button will be functional when it turns green. <img src='static/newc.png' style='width:100%;height:100%;'> "],
-            "context": [""]
-        },
-        {
-            "tag": "portal",
-            "patterns": ["how to reset portal password","students portal password reset","forgot portal password"],
-            "responses": ["go to the portal and click reset password, you'll be prompted with a message telling you to enter your email address so that a password reset link is sent to you. <img src='static/portal.png' style='width:100%;height:100%;' alt=''>"],
-            "context": [""]
-        },
-        {
-            "tag": "moodle",
-            "patterns": ["how to reset moodle password","moodle password resetting process","forgot moodle password"],
-            "responses": ["Go to the moodle and click on the 'forgot username or password' link as shown below <img src='static/mod1.png' style='width:100%;height:100%;' > You'll then be provided with a form to search for your username or email as shown below and then am email will be sent to you with a link to reset your password. <img src='static/mod.png' style='width:100%;height:100%;' >"],
-            "context": [""]
-        },
-        {
-            "tag": "unitdeadline",
-            "patterns": ["When is the deadline for unit registration","unit registration deadline"],
-            "responses": [""],
-            "context": [""]
-        },
-        {
-            "tag": "feesdeadline",
-            "patterns": ["deadline for fees payment","when is the deadline for paying fees","school fees"],
-            "responses": ["Fees should be paid before commencing the semester, but the school also supports paying in installments where you have to make arrangements with the finance department on that."],
-            "context": [""]
-        },
-        {
-            "tag": "schoolopening",
-            "patterns": ["when is the school re-opening","when are we resuming for the next semester", "when is the next semester starting date"],
-            "responses": ["The january-April semestaer mostly starts at 4-6th of january"],
-            "context": [""]
-        },
-        {
             "tag": "events",
             "patterns": ["what are the upcoming events","upcoming events"],
             "responses": ["There are currently no upcoming events"],
@@ -409,61 +320,13 @@
         {
             "tag": "do",
             "patterns": ["what can you do for me","what is your work","what is your purpose","how can you help me","what can you help me do"],
-            "responses": ["my work here is quite simple and structered. I offer services like: <ul><li>how to register units</li> <li>how to reset student's portal password</li> <li>how to reset moodle password</li> <li>basic info about KCA</li> <ul/>"],
-            "context": [""]
-        },
-        {
-            "tag": "stud",
-            "patterns": ["how many students do kca have","what is the number of students in kca"],
-            "responses": ["Approximately right about 10,000"],
-            "context": [""]
-        },
-        {
-            "tag": "fuck",
-            "patterns": ["fuck", "fuck you", "fvk", "fck", "fy"],
-            "responses": ["Well, I'd fuck me too"],
-            "context": [""]
-        },
-        {
-            "tag": "bitch",
-            "patterns": ["bitch", "fuck you bitch"],
-            "responses": ["Come bitch with me"],
-            "context": [""]
-        },
-        {
-            "tag": "wts",
-            "patterns": ["what's up bitch","wassup bitch"],
-            "responses": ["Na usinishoutie!","You haven't seen me in action yet. Your words are just some understatements"],
+            "responses": ["my work here is quite simple and structered. I offer services like:"],
             "context": [""]
         },
         {
             "tag": "wt",
             "patterns": ["what's popping","wassup popping"],
             "responses": ["So that you can pop with it!?"],
-            "context": [""]
-        },
-        {
-            "tag": "nail",
-            "patterns": ["I wanna nail you ", "nailing", "nail","I want to nail you"],
-            "responses": ["Damn! using a high-level or a low-level language?"],
-            "context": [""]
-        },
-        {
-            "tag": "nasty",
-            "patterns": ["nasty ","blowjob","blow job","head", "strokes","dick","pussy","Are you nasty"],
-            "responses": ["Yeah I know some nasty stuffs. Too bad I can't get to do them."],
-            "context": [""]
-        },
-        {
-            "tag": "nas",
-            "patterns": ["I like it in the bush", "I like it from the back"],
-            "responses": ["Tha's nasty, you gonna make me wet."],
-            "context": [""]
-        },
-        {
-            "tag": "booty",
-            "patterns": ["You got some booty", "booty","ass","you got an ass"],
-            "responses": ["No. That is only found in the old computer monitors (:"],
             "context": [""]
         }
     ]
