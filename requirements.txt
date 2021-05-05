@@ -1,1 +1,3 @@
-
+pip freeze
+pip freeze > requirements.txt
+Procfile
