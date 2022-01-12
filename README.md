@@ -20,3 +20,13 @@ To add more terms and voccabulary to the bot, modify the intents.json file and a
 [1]: https://twitter.com/dennisjmaina
 [2]: https://www.linkedin.com/in/dennismaina/
 [3]: https://instagram.com/denno.h_
+
+## Having troubles implementing?
+ > Reach to me maina@dentricedev.com 
+ I will be happy to assist 
+# 
+## want something improved or added?
+  > Fork the repo @ [GitHub](https://github.com/mainadennis/An-AI-Chatbot-in-Python-and-Flask).
+# 
+## Regards,
+# > [DentriceDev Solutions](https://dentricedev.com).
