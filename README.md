@@ -33,4 +33,4 @@ To add more terms and vocabulary to the bot, modify the intents.json file and ad
   > Fork the repo @ [GitHub](https://github.com/mainadennis/An-AI-Chatbot-in-Python-and-Flask).
 # 
 ## Regards,
-# > [DentriceDev Solutions](https://dentricedev.com).
+ > [DentriceDev Solutions](https://dentricedev.com).
