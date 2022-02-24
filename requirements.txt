@@ -18,7 +18,7 @@ Automat==20.2.0
 Babel==2.8.0
 backcall==0.2.0
 backoff==1.11.1
-basemap==1.2.1
+basemap
 bcrypt==3.2.0
 beautifulsoup4==4.10.0
 binwalk
