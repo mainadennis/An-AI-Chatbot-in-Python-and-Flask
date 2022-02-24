@@ -49,7 +49,7 @@ dbus-python==1.2.18
 
 decorator==4.4.2
 defusedxml==0.7.1
-dhcpig==0.0.0
+
 dicttoxml==1.7.4
 distro==1.6.0
 distro-info==1.1
