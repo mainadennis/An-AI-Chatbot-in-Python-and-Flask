@@ -134,7 +134,7 @@ maxminddb==2.0.3
 mechanize==0.4.7
 mercurial==6.0.2
 mistune==0.8.4
-mitmproxy==6.0.2
+mitmproxy==7.0.3
 more-itertools==8.10.0
 mpmath==0.0.0
 msgpack==1.0.2
