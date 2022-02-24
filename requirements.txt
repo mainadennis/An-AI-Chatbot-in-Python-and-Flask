@@ -6,7 +6,6 @@ aiomultiprocess==0.8.0
 aiosignal==1.2.0
 aiosqlite==0.17.0
 ajpy==0.0.4
-alembic==1.7.1.dev0
 aniso8601==9.0.1
 anyio==3.5.0
 appdirs==1.4.4
