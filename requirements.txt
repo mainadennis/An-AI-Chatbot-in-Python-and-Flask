@@ -28,7 +28,6 @@ boltons==21.0.0
 
 Brotli==1.0.9
 cairocffi==1.2.0
-catfish==4.16.3
 censys==2.0.9
 certifi==2020.6.20
 cffi==1.15.0
