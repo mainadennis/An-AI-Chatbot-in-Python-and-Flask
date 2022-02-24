@@ -33,7 +33,7 @@ certifi==2020.6.20
 cffi==1.15.0
 chardet==4.0.0
 charset-normalizer==2.0.6
-chirp==0.3.0.dev0
+
 chrome-gnome-shell==0.0.0
 click==8.0.3
 click-plugins==1.1.1
