@@ -52,7 +52,7 @@ defusedxml==0.7.1
 
 dicttoxml==1.7.4
 distro==1.6.0
-
+distro-info
 dnslib==0.9.19
 dnspython==2.2.0
 ecdsa==0.18.0b1
