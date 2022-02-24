@@ -172,7 +172,7 @@ ply==3.11
 prettytable==2.5.0
 promise==2.3
 prompt-toolkit==3.0.27
-protobuf==3.12.4
+protobuf==3.15.0
 psycopg2==2.9.2
 ptyprocess==0.7.0
 publicsuffix2==2.20191221
