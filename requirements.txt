@@ -15,7 +15,7 @@ asn1crypto==1.4.0
 async-timeout==4.0.1
 attrs==21.2.0
 Automat==20.2.0
-Babel==2.8.0
+Babel==2.9.1
 backcall==0.2.0
 backoff==1.11.1
 basemap==1.2.1
