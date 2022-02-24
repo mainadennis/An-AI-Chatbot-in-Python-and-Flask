@@ -189,7 +189,7 @@ pydantic==1.9.0
 pyee==9.0.3
 pyenchant==3.2.0
 pygeoip==0.3.2
-Pygments==2.7.1
+Pygments==2.7.4
 PyGObject==3.42.0
 PyHamcrest==2.0.2
 pyinotify==0.9.6
