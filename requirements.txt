@@ -67,6 +67,7 @@ fonttools==4.29.1
 frozenlist==1.2.0
 fs==2.4.12
 future==0.18.2
+libgdal-dev
 GDAL==3.4.1
 GeoIP==1.3.2
 geoip2==2.9.0
