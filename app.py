@@ -18,7 +18,7 @@ words = pickle.load(open("words.pkl", "rb"))
 classes = pickle.load(open("classes.pkl", "rb"))
 
 app = Flask(__name__)
-run_with_ngrok(app) 
+# run_with_ngrok(app) 
 
 @app.route("/")
 def home():
