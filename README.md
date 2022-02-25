@@ -33,6 +33,8 @@ source ./venv/bin/activate  # sh, bash, or zsh
 7. To expose your bot via Ngrok, run ```pip install flask-ngrok``` to install ```flask-ngrok``` Then you'll need to configure your ngrok credentials(login: email + password) Then uncomment this line ```run_with_ngrok(app) ``` and comment the last two lines ```if __name__ == "__main__": app.run() ``` Notice that ngrok is not used by default.
 8. To access your bot on localhost, go to ```http://127.0.0.1:5000/ ``` If you're on Ngrok your url will be ```some-text.ngrok.io```
 
+### Step-By-Step Explanation and Installation Guide
+> https://dev.to/dennismaina/how-to-create-an-ai-chatbot-in-python-and-flask-1c3m
 ### Execution
 To run this Bot, first run the ```train.py``` file to train the model. This will generate a file named ```chatbot_model.h5```<br>
 This is the model which will be used by the Flask REST API to easily give feedback without the need to retrain.<br>
