@@ -57,7 +57,7 @@ To add more terms and vocabulary to the bot, modify the ```intents.json``` file 
 [3]: https://instagram.com/denno.h_
 
 ## Having troubles implementing?
- > Reach to me maina@dentricedev.com 
+ > Reach out to me maina@dentricedev.com 
  I will be happy to assist 
 # 
 ## want something improved or added?
