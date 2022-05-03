@@ -5,7 +5,7 @@ An AI Chatbot using Python and Flask REST API
 1. TensorFlow
 1. Flask
 
-## VsCode Instalation
+## VsCode SetUp
 1. Clone the repository-> cd into the cloned repository folder
 2. Create a python virtual environment 
 ```
