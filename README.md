@@ -34,6 +34,7 @@ source ./venv/bin/activate  # sh, bash, or zsh
 8. To access your bot on localhost, go to ```http://127.0.0.1:5000/ ``` If you're on Ngrok your url will be ```some-text.ngrok.io```
 
 ### Step-By-Step Explanation and Installation Guide
+> https://dentricedev.com/blog/how-to-create-an-ai-chatbot-in-python-and-flask-gvub
 > https://dev.to/dennismaina/how-to-create-an-ai-chatbot-in-python-and-flask-1c3m
 ### Execution
 To run this Bot, first run the ```train.py``` file to train the model. This will generate a file named ```chatbot_model.h5```<br>
