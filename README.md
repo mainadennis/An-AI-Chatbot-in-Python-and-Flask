@@ -35,6 +35,7 @@ source ./venv/bin/activate  # sh, bash, or zsh
 
 ### Step-By-Step Explanation and Installation Guide
 > https://dentricedev.com/blog/how-to-create-an-ai-chatbot-in-python-and-flask-gvub
+> 
 > https://dev.to/dennismaina/how-to-create-an-ai-chatbot-in-python-and-flask-1c3m
 ### Execution
 To run this Bot, first run the ```train.py``` file to train the model. This will generate a file named ```chatbot_model.h5```<br>
